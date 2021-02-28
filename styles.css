@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "AkhandSemilight";
+    src: url('AkhandSemilight.woff');
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+h1 {
+    height: -120rem;
+    color: white;
+    margin-top: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: AkhandSemilight;
+    font-size: 5.5rem;
+}
+
+.texto pre {
+    font-family: AkhandSemilight;
+    color: #C0C0C0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 1.2rem;
+    margin-top: -65px;
+}
+
+h4 {
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: baseline;
+    margin-left: 430px;
+    font-size: 1.2rem;
+    font-weight: lighter;
+    margin-top: -54px;
+}
+
+.button-bot a {
+    color: white;
+    text-decoration: none;
+    font-family: AkhandSemilight;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 240px;
+    height: 70px;
+    background-color: #FF8C00;
+    margin-left: -260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-bot {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 40px;
+}
+
+.button-two a {
+    color: white;
+    text-decoration: none;
+    font-family: AkhandSemilight;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: 2px solid #FF8C00;
+    padding: 15px;
+    margin-left: -5px;
+    margin-right: -280px;
+    margin-top: -71px;
+    width: 200px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-two {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.namco img {
+    width: 8rem;
+    height: 81px;
+    z-index: 1;
+    margin-left: 300px;
+}
+
+.namco {
+    margin-top: -870px;
+}
+
+.container video {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 120rem;
+    margin-top: -170px;
+    margin-right: -5px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.image img {
+    width: 40rem;
+    height: 16rem;
+    margin-top: 100px;
+    z-index: 1;
+}
+
+.button-head pre {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: AkhandSemilight;
+    z-index: 1;
+    margin-top: -52px;
+}
+
+.button-head a {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+button {
+    font-family: AkhandSemilight;
+}
